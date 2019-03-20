@@ -1,2 +1,2 @@
 # splunk
-Splunk Apps
+Splunk App for Predicting London Crime using Machine Learning
