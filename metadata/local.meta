@@ -19,14 +19,14 @@ version = 7.1.2
 modtime = 1535716422.632021000
 
 [views/preprocessing_by_k_means_clustering]
-access = read : [ * ], write : [ * ]
+access = read : [ * ], write : [ admin ]
 export = system
 owner = admin
 version = 7.1.2
 modtime = 1535989137.890905000
 
 [views/preprocessing_by_anomaly_score]
-access = read : [ * ], write : [ * ]
+access = read : [ * ], write : [ admin ]
 export = system
 owner = admin
 version = 7.1.2
