@@ -1,5 +1,5 @@
 <dashboard>
-  <label>Pre-Processing by Prediction Ability</label>
+  <label>Pre-Processing by Prediction Ability </label>
   <description>We used command analyzefields which analyses all numerical fields to determine the ability for each of those fields to predict the value of a particular field. It determines the stability of the relationship between values in the target field and numeric values in other fields.</description>
   <row>
     <panel>
