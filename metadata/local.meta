@@ -58,7 +58,7 @@ version = 7.1.2
 modtime = 1536160799.578040000
 
 [views/crime_prediction_model_per_lsoa_lasso]
-access = read : [ * ], write : [ * ]
+access = read : [ * ], write : [ admin ]
 export = system
 owner = admin
 version = 7.1.2
